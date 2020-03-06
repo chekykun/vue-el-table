@@ -1,5 +1,7 @@
 # vue-el-table
 vue element table
+#说明
+需要引入element-ui(2.9.1) 和lodash.js
 #引入
 ```
   import VueElTable from './VueElTable'
